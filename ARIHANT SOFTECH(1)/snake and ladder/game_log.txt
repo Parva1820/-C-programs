@@ -1,0 +1,52 @@
+Parva rolled: 3
+Parva is at position: 4
+Player rolled: 6
+Player is at position: 7
+Parva rolled: 3
+Parva is at position: 7
+Player rolled: 3
+Player is at position: 10
+Parva rolled: 1
+Parva is at position: 8
+Player rolled: 4
+Player is at position: 14
+Parva rolled: 2
+Parva is at position: 40
+Player rolled: 1
+Player is at position: 15
+Parva rolled: 3
+Parva is at position: 43
+Player rolled: 2
+Player is at position: 17
+Parva rolled: 2
+Parva is at position: 45
+Player rolled: 2
+Player is at position: 81
+Parva rolled: 5
+Parva is at position: 50
+Player rolled: 1
+Player is at position: 82
+Parva rolled: 3
+Parva is at position: 53
+Player rolled: 5
+Player is at position: 87
+Parva rolled: 3
+Parva is at position: 56
+Player rolled: 4
+Player is at position: 91
+Parva rolled: 1
+Parva is at position: 57
+Player rolled: 2
+Player is at position: 93
+Parva rolled: 1
+Parva is at position: 58
+Player rolled: 2
+Player is at position: 95
+Parva rolled: 1
+Parva is at position: 59
+Player rolled: 4
+Player is at position: 99
+Parva rolled: 2
+Parva is at position: 61
+Player rolled: 5
+player won the game.Player is at position: 104

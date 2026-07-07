@@ -1,0 +1,8 @@
+Parva rolled: 6
+Parva is at position: 7
+Player rolled: 2
+Player is at position: 3
+Parva rolled: 5
+Parva is at position: 35
+Player rolled: 3
+Player is at position: 6
